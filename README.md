@@ -6,7 +6,7 @@
 <h2>Requirements:</h2></br>
 Python</br> 
 Flask</br>
-Flask_Alchemy</br>
+SQLAlchemy</br>
 Request</br>
 
 <h2>Project Description:</h2></br>
